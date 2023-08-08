@@ -1,0 +1,15 @@
+id,nome,extensao,nascente,foz,estados
+1,Amazonas,6692,"Nevado Mismi no Peru","Oceano Atlântico","AM, PA, AP"
+2,Paraná,4880,"Rio Grande e Rio Parnaíba","Rio da Prata","SP, PR, MS, MG"
+3,Purus,3379,"Colinas do Arco Fitzcarrald, no Peru","Rio Amazonas","AC, AM"
+4,Madeira,3315,"Confluência dos rios Beni e Mamoré, na Bolívia","Rio Amazonas","RO, AM"
+5,"São Francisco",2914,"Serra da Canastra, em Minas Gerais","Oceano Atlântico","MG, BA, PE, SE, AL"
+6,Negro,2250,"Colômbia e Venezuela","Rio Amazonas",AM
+7,Xingu,2230,"Mato Grosso (Serra do Roncador)","Rio Amazonas (Pará)","MT, PA"
+8,Araguaia-Tocantins,4565,"Goiás (Serra do Caiapó) e Tocantins (Serra Geral de Goiás)","Oceano Atlântico (Maranhão).","GO, MT, TO, PA, MA"
+9,Tapajós,1610,"Mato Grosso","Rio Amazonas em Santarém no Pará.","MT, PA"
+10,Içá-Putumayo,2865,Colômbia,"Rio Amazonas em Santo Antônio do Içá no Amazonas.",AM
+11,Japurá-Caquetá,3695,Colômbia,"Rio Amazonas em Tefé no Amazonas.",AM
+12,Paraguai,1370,"Chapada dos Parecis em Mato Grosso","Rio da Prata na Argentina","MT, MS"
+13,Uruguai,1000,"Serra do Mar em Santa Catarina ","Rio da Prata na Argentina","SC, RS"
+14,Javari,1000,"Andes peruanos ","Rio Solimões no Amazonas",AM
