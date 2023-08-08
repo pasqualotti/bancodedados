@@ -1,0 +1,114 @@
+[
+	{
+		"id" : 1,
+		"nome" : "Amazonas",
+		"extensao" : 6692,
+		"nascente" : "Nevado Mismi no Peru",
+		"foz" : "Oceano Atlântico",
+		"estados" : "AM, PA, AP"
+	},
+	{
+		"id" : 2,
+		"nome" : "Paraná",
+		"extensao" : 4880,
+		"nascente" : "Rio Grande e Rio Parnaíba",
+		"foz" : "Rio da Prata",
+		"estados" : "SP, PR, MS, MG"
+	},
+	{
+		"id" : 3,
+		"nome" : "Purus",
+		"extensao" : 3379,
+		"nascente" : "Colinas do Arco Fitzcarrald, no Peru",
+		"foz" : "Rio Amazonas",
+		"estados" : "AC, AM"
+	},
+	{
+		"id" : 4,
+		"nome" : "Madeira",
+		"extensao" : 3315,
+		"nascente" : "Confluência dos rios Beni e Mamoré, na Bolívia",
+		"foz" : "Rio Amazonas",
+		"estados" : "RO, AM"
+	},
+	{
+		"id" : 5,
+		"nome" : "São Francisco",
+		"extensao" : 2914,
+		"nascente" : "Serra da Canastra, em Minas Gerais",
+		"foz" : "Oceano Atlântico",
+		"estados" : "MG, BA, PE, SE, AL"
+	},
+	{
+		"id" : 6,
+		"nome" : "Negro",
+		"extensao" : 2250,
+		"nascente" : "Colômbia e Venezuela",
+		"foz" : "Rio Amazonas",
+		"estados" : "AM"
+	},
+	{
+		"id" : 7,
+		"nome" : "Xingu",
+		"extensao" : 2230,
+		"nascente" : "Mato Grosso (Serra do Roncador)",
+		"foz" : "Rio Amazonas (Pará)",
+		"estados" : "MT, PA"
+	},
+	{
+		"id" : 8,
+		"nome" : "Araguaia-Tocantins",
+		"extensao" : 4565,
+		"nascente" : "Goiás (Serra do Caiapó) e Tocantins (Serra Geral de Goiás)",
+		"foz" : "Oceano Atlântico (Maranhão).",
+		"estados" : "GO, MT, TO, PA, MA"
+	},
+	{
+		"id" : 9,
+		"nome" : "Tapajós",
+		"extensao" : 1610,
+		"nascente" : "Mato Grosso",
+		"foz" : "Rio Amazonas em Santarém no Pará.",
+		"estados" : "MT, PA"
+	},
+	{
+		"id" : 10,
+		"nome" : "Içá-Putumayo",
+		"extensao" : 2865,
+		"nascente" : "Colômbia",
+		"foz" : "Rio Amazonas em Santo Antônio do Içá no Amazonas.",
+		"estados" : "AM"
+	},
+	{
+		"id" : 11,
+		"nome" : "Japurá-Caquetá",
+		"extensao" : 3695,
+		"nascente" : "Colômbia",
+		"foz" : "Rio Amazonas em Tefé no Amazonas.",
+		"estados" : "AM"
+	},
+	{
+		"id" : 12,
+		"nome" : "Paraguai",
+		"extensao" : 1370,
+		"nascente" : "Chapada dos Parecis em Mato Grosso",
+		"foz" : "Rio da Prata na Argentina",
+		"estados" : "MT, MS"
+	},
+	{
+		"id" : 13,
+		"nome" : "Uruguai",
+		"extensao" : 1000,
+		"nascente" : "Serra do Mar em Santa Catarina ",
+		"foz" : "Rio da Prata na Argentina",
+		"estados" : "SC, RS"
+	},
+	{
+		"id" : 14,
+		"nome" : "Javari",
+		"extensao" : 1000,
+		"nascente" : "Andes peruanos ",
+		"foz" : "Rio Solimões no Amazonas",
+		"estados" : "AM"
+	}
+]
