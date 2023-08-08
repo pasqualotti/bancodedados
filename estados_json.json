@@ -3,162 +3,162 @@
 		"id" : 1,
 		"nome" : "Acre",
 		"uf" : "AC",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 2,
 		"nome" : "Alagoas",
 		"uf" : "AL",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 3,
 		"nome" : "Amazonas",
 		"uf" : "AM",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 4,
 		"nome" : "Amapá",
 		"uf" : "AP",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 5,
 		"nome" : "Bahia",
 		"uf" : "BA",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 6,
 		"nome" : "Ceará",
 		"uf" : "CE",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 7,
 		"nome" : "Distrito Federal",
 		"uf" : "DF",
-		"regiao" : 5
+		"regiao" : "Centro-Oeste"
 	},
 	{
 		"id" : 8,
 		"nome" : "Espírito Santo",
 		"uf" : "ES",
-		"regiao" : 1
+		"regiao" : "Sudeste"
 	},
 	{
 		"id" : 9,
 		"nome" : "Goiás",
 		"uf" : "GO",
-		"regiao" : 5
+		"regiao" : "Centro-Oeste"
 	},
 	{
 		"id" : 10,
 		"nome" : "Maranhão",
 		"uf" : "MA",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 11,
 		"nome" : "Minas Gerais",
 		"uf" : "MG",
-		"regiao" : 1
+		"regiao" : "Sudeste"
 	},
 	{
 		"id" : 12,
 		"nome" : "Mato Grosso do Sul",
 		"uf" : "MS",
-		"regiao" : 5
+		"regiao" : "Centro-Oeste"
 	},
 	{
 		"id" : 13,
 		"nome" : "Mato Grosso",
 		"uf" : "MT",
-		"regiao" : 5
+		"regiao" : "Centro-Oeste"
 	},
 	{
 		"id" : 14,
 		"nome" : "Pará",
 		"uf" : "PA",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 15,
 		"nome" : "Paraíba",
 		"uf" : "PB",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 16,
 		"nome" : "Pernambuco",
 		"uf" : "PE",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 17,
 		"nome" : "Piauí",
 		"uf" : "PI",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 18,
 		"nome" : "Paraná",
 		"uf" : "PR",
-		"regiao" : 3
+		"regiao" : "Sul"
 	},
 	{
 		"id" : 19,
 		"nome" : "Rio de Janeiro",
 		"uf" : "RJ",
-		"regiao" : 1
+		"regiao" : "Sudeste"
 	},
 	{
 		"id" : 20,
 		"nome" : "Rio Grande do Norte",
 		"uf" : "RN",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 21,
 		"nome" : "Rondônia",
 		"uf" : "RO",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 22,
 		"nome" : "Roraima",
 		"uf" : "RR",
-		"regiao" : 4
+		"regiao" : "Norte"
 	},
 	{
 		"id" : 23,
 		"nome" : "Rio Grande do Sul",
 		"uf" : "RS",
-		"regiao" : 3
+		"regiao" : "Sul"
 	},
 	{
 		"id" : 24,
 		"nome" : "Santa Catarina",
 		"uf" : "SC",
-		"regiao" : 3
+		"regiao" : "Sul"
 	},
 	{
 		"id" : 25,
 		"nome" : "Sergipe",
 		"uf" : "SE",
-		"regiao" : 2
+		"regiao" : "Nordeste"
 	},
 	{
 		"id" : 26,
 		"nome" : "São Paulo",
 		"uf" : "SP",
-		"regiao" : 1
+		"regiao" : "Sudeste"
 	},
 	{
 		"id" : 27,
 		"nome" : "Tocantins",
 		"uf" : "TO",
-		"regiao" : 5
+		"regiao" : "Centro-Oeste"
 	}
 ]
